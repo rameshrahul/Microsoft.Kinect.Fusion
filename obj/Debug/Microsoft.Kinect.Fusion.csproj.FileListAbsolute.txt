@@ -1,0 +1,9 @@
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.csprojResolveAssemblyReference.cache
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.Resources.resources
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.csproj.GenerateResource.Cache
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.dll
+C:\Users\frr17\Documents\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.xml
